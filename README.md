@@ -14,9 +14,3 @@
   <a href = "mailto:h903711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-rosa-da-cruz-1a7030237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div href="https://github.com/HenriqueCruz22/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueCruz22&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCruz22&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
