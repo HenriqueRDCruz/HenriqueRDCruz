@@ -2,9 +2,12 @@
 
 ###
 
-<p align="center">I developed my passion for programming during my technical course in computer science. It was during this period that I began to dedicate myself, always seeking new opportunities to learn and grow in the field, with a focus on back-end development. This course provided me with a solid foundation in fundamental programming concepts such as logic, algorithms, data types, variables and constants, conditions and loops, functions, among others.
+<p align="center">
+  
+I developed my passion for programming during my technical course in computer science. It was during this period that I began to dedicate myself, always seeking new opportunities to learn and grow in the field, with a focus on back-end development. This course provided me with a solid foundation in fundamental programming concepts such as logic, algorithms, data types, variables and constants, conditions and loops, functions, among others.
 
 My passion for programming intensified as I faced and overcame technical challenges, which motivated me to explore back-end development more deeply. Understanding how systems work "behind the scenes" and the ability to build robust and scalable applications are aspects that fascinate me and that I continue to pursue in my journey. Currently, I am pursuing a degree in Systems Analysis and Development, dedicating myself to each project with enthusiasm and commitment to transform ideas into reality, always striving to improve my skills and knowledge.
+
 </p>
 
 ###
