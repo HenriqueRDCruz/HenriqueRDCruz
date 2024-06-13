@@ -12,7 +12,7 @@ My passion for programming intensified as I faced and overcame technical challen
 
 ###
 
-<h2 align="center">Language and Database that I use</h2>
+<h2 align="center">Language and Database</h2>
 
 ###
 
@@ -30,7 +30,7 @@ My passion for programming intensified as I faced and overcame technical challen
 
 ###
 
-<h2 align="center">Programs I use</h2>
+<h2 align="center">Programs</h2>
 
 ###
 
