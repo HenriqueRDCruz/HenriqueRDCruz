@@ -1,4 +1,4 @@
-## Óla! Eu sou o Henrique Rosa da Cruz, desenvolvedor de software🚀
+## Óla! Eu sou o Henrique Rosa da Cruz🚀
   
 <div> 
   <a href = "mailto:h903711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
