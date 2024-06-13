@@ -12,40 +12,40 @@ My passion for programming intensified as I faced and overcame technical challen
 
 ###
 
-<h3 align="center">Language and Database that I use</h3>
+<h2 align="center">Language and Database that I use</h2>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/> 
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
 </div>
 
 ###
 
-<h3 align="center">Programs I use</h3>
+<h2 align="center">Programs I use</h2>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"/>
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"/>
 </div>
 
 ###
 
-<h3 align="center">Developing Profile...</h3>
+<h3>Developing Profile...</h3>
